@@ -1,0 +1,5 @@
+adapterSequence: AGTCGTAA
+outFile: 'outfile'
+inputFile:
+  class: File
+  path: ./data/AAAAAAAA-N_AACTCACC_L001_R1_001_10k.fastq.gz

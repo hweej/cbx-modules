@@ -1,0 +1,3 @@
+[submodule "tests/data"]
+	path = tests/data
+	url = http://crux.mskcc.org:8929/mpath_pipelines/pl-data.git
